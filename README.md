@@ -56,15 +56,15 @@ I regularly practice DSA and LeetCode to develop strong algorithmic thinking and
 
 ## 📈 GitHub Activity
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME)](https://github.com/Kaveri369)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Kaveri369)](https://github.com/Kaveri369)
 
 ---
 
 ## 🤝 Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Kaveri369)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](Lhttps://www.linkedin.com/in/kaveri-kapgate-8a2180316/))
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/kaveriiiii/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](Lhttps://www.linkedin.com/in/kaveri-kapgate-8a2180316/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/kaveriiiii/)
 
 ---
 
