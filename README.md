@@ -1,16 +1,71 @@
-## Hi there 👋
+# Hey, I'm Kaveri 👋
 
-<!--
-**Kaveri369/Kaveri369** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Science Student • Developer • Problem Solver
 
-Here are some ideas to get you started:
+I enjoy turning ideas into practical software and solving challenging problems through code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently focused on **Data Structures & Algorithms, C++, AI/ML, and Software Development** — while continuously building projects and improving my problem-solving skills.
+
+---
+
+## 🚀 What I'm Working On
+
+- 🧩 Strengthening **DSA & algorithmic problem solving**
+- 💻 Building **real-world software projects**
+- 🤖 Exploring **AI/ML & intelligent applications**
+- 🌐 Improving my **full-stack development** skills
+- 📚 Learning something new and writing better code every day
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+`C++` `Python` `JavaScript` `SQL`
+
+**Development**
+
+`HTML` `CSS` `JavaScript` `MySQL` `Git` `GitHub`
+
+**Currently Exploring**
+
+`Data Structures & Algorithms` `AI/ML` `Full-Stack Development`
+
+---
+
+## 🧠 Problem Solving
+
+I believe good problem solving is more than just getting the correct answer.
+
+**Understand → Analyze → Implement → Optimize → Learn**
+
+I regularly practice DSA and LeetCode to develop strong algorithmic thinking and prepare for challenging software engineering problems.
+
+---
+
+## 📌 Featured Work
+
+> Building projects that solve real problems and strengthen my engineering skills.
+
+🔹 **DSA & LeetCode** — Algorithmic problem solving and pattern-based learning  
+🔹 **Web Development** — Practical full-stack projects  
+🔹 **AI/ML** — Exploring intelligent, real-world applications  
+
+---
+
+## 📈 GitHub Activity
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME)](https://github.com/Kaveri369)
+
+---
+
+## 🤝 Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Kaveri369)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](Lhttps://www.linkedin.com/in/kaveri-kapgate-8a2180316/))
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/kaveriiiii/))
+
+---
+
+> **Build. Solve. Learn. Repeat.**
