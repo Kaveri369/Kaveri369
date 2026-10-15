@@ -1,185 +1,151 @@
-<!-- ABOUT ME -->
-
-## ✨ About Me
-
-🎓 I'm a **Computer Science Engineering student** passionate about problem-solving, software development, and building technology that solves real-world problems.
-
-💻 Currently focused on mastering **Data Structures & Algorithms in C++**, strengthening my computer science fundamentals, and developing practical applications.
-
-- 🧩 **Problem Solving:** Practicing DSA and algorithmic thinking with Striver's A2Z Sheet and LeetCode.
-- 🚀 **Development:** Building web applications using HTML, CSS, JavaScript, PHP, and MySQL.
-- 🛠️ **Projects:** Developed an Online Shopping Website and a Health Monitoring System.
-- 🌱 **Currently Exploring:** Advanced DSA, full-stack development, and AI technologies.
-- 🎯 **My Goal:** Become a skilled software engineer by combining strong fundamentals with hands-on experience.
-- ⚡ **Mindset:** Consistency over motivation. Progress through practice.
-
-<br/>
-
 <div align="center">
 
-*"Great software is built one problem, one solution, and one improvement at a time."*
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&text=Kaveri%20Kapgate&fontSize=55&color=0:0f172a,100:4338ca&fontColor=ffffff&stroke=6366f1&strokeWidth=1&desc=Computer%20Science%20%7C%20C%2B%2B%20%7C%20Software%20Development&descSize=16&descAlignY=70" width="100%" alt="Kaveri Kapgate developer banner"/>
 
-</div>
-```
-
-- 🔭 **Currently building:** DSA skills and practical software projects
-- 🌱 **Learning:** Advanced algorithms and full-stack development
-- 💡 **Interested in:** Efficient solutions, clean code, and real-world problems
-- 🎯 **Focus:** Consistent practice, strong CS fundamentals, and project development
-- ⚡ **Philosophy:** Learn deeply. Build consistently. Improve continuously.
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=cpp,c,js,php,mysql" alt="C++, C, JavaScript, PHP and MySQL"/>
-
-### Web Development
-
-<img src="https://skillicons.dev/icons?i=html,css,js" alt="HTML, CSS and JavaScript"/>
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,mysql" alt="Git, GitHub, VS Code and MySQL"/>
+<a href="YOUR_GITHUB_PROFILE_URL">
+  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+</a>
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+</a>
+<a href="YOUR_LEETCODE_PROFILE_URL">
+  <img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+</a>
 
 </div>
 
 ---
 
-## 🧠 Data Structures & Algorithms
+## 01 / About Me
 
-**Language:** C++  
-**Practice:** Striver's A2Z DSA Sheet · LeetCode
+I'm a Computer Science Engineering student focused on mastering problem-solving, building practical applications, and developing strong software engineering fundamentals.
 
-| Topic | Focus |
+- **Core focus:** Data Structures & Algorithms in C++
+- **Development:** Web applications and database-driven projects
+- **Current practice:** Striver's A2Z DSA Sheet and LeetCode
+- **Interests:** Algorithms, system design fundamentals, and AI
+- **Objective:** Build reliable software and grow into a strong software engineer
+
+> I believe in understanding the problem deeply, writing clean solutions, and improving through consistent practice.
+
+## 02 / Technical Skills
+
+<div align="center">
+
+**LANGUAGES**
+
+<img src="https://skillicons.dev/icons?i=cpp,c,js,php" alt="C++, C, JavaScript, PHP"/>
+
+**WEB & DATABASE**
+
+<img src="https://skillicons.dev/icons?i=html,css,mysql" alt="HTML, CSS, MySQL"/>
+
+**DEVELOPER TOOLS**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub, VS Code"/>
+
+</div>
+
+## 03 / Problem Solving
+
+My goal is to develop strong algorithmic thinking and learn to choose efficient solutions based on time and space complexity.
+
+| Topic | Areas of Practice |
 |---|---|
-| Arrays & Strings | Traversal, hashing, patterns |
-| Sorting & Searching | Binary search, merge sort, quick sort |
-| Two Pointers & Sliding Window | Efficient array and string solutions |
-| Linked Lists | Reversal, cycles, pointer manipulation |
-| Stacks & Queues | Monotonic stacks, queue problems |
-| Recursion & Backtracking | Subsets, permutations, search |
-| Trees & BSTs | Traversals, properties, search |
-| Heaps & Hashing | Priority queues, frequency counting |
-| Graphs | BFS, DFS, shortest paths |
-| Greedy & Dynamic Programming | Optimization and state transitions |
+| Fundamentals | Arrays, strings, hashing |
+| Searching & Sorting | Binary search, merge sort, quick sort |
+| Core data structures | Linked lists, stacks, queues, heaps |
+| Problem-solving patterns | Two pointers, sliding window, recursion |
+| Advanced structures | Trees, BSTs, graphs |
+| Algorithms | Greedy, backtracking, dynamic programming |
 
 <div align="center">
 
 <a href="https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/">
-  <img src="https://img.shields.io/badge/Striver's_A2Z_Sheet-6C63FF?style=for-the-badge" alt="Striver's A2Z Sheet"/>
+  <img src="https://img.shields.io/badge/ROADMAP-Striver's_A2Z-6366f1?style=for-the-badge" alt="Striver's A2Z"/>
 </a>
 <a href="https://leetcode.com/">
-  <img src="https://img.shields.io/badge/Practice_on_LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  <img src="https://img.shields.io/badge/PLATFORM-LeetCode-f59e0b?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
 </a>
 
 </div>
 
----
+## 04 / Selected Projects
 
-## 🚀 Featured Projects
+### 01. Online Shopping Website
 
-<table>
-<tr>
-<td width="50%" valign="top">
+A database-driven web application designed to support a basic online shopping workflow.
 
-### 🛍️ Online Shopping Website
+**Stack:** HTML · CSS · JavaScript · PHP · MySQL
 
-A web application for browsing products and managing shopping workflows.
-
-**Tech stack**
-
-`HTML` `CSS` `JavaScript` `PHP` `MySQL`
-
-**Implemented functionality**
-
-- User registration and login
-- Product browsing
-- Shopping cart
+- User registration and authentication
+- Product browsing and shopping cart
 - Checkout workflow
-- Database integration
+- Database-backed application functionality
 
-[**↗ View Project Repository**](YOUR_ONLINE_SHOPPING_REPO_URL)
+[View source code →](YOUR_ONLINE_SHOPPING_REPO_URL)
 
-</td>
-<td width="50%" valign="top">
+### 02. Health Monitoring System
 
-### ❤️ Health Monitoring System
+A project focused on presenting health-related information in an organized and useful way.
 
-A project focused on monitoring health-related information and presenting it in an organized way.
-
-**Tech stack**
-
-`ADD_ACTUAL_TECHNOLOGIES`
-
-**Implemented functionality**
+**Stack:** ADD_YOUR_ACTUAL_TECHNOLOGIES
 
 - Health data monitoring
-- Organized data presentation
-- ADD_ACTUAL_FEATURES
+- Structured information presentation
+- ADD_YOUR_ACTUAL_FEATURES
 
-[**↗ View Project Repository**](YOUR_HEALTH_MONITORING_REPO_URL)
+[View source code →](YOUR_HEALTH_MONITORING_REPO_URL)
 
-</td>
-</tr>
-</table>
+### 03. DSA in C++
 
----
+A structured collection of solutions and notes documenting my progress in algorithms and data structures.
 
-## 📈 My Growth Roadmap
+**Stack:** C++ · STL · Algorithms
 
-- [x] Learn C++ fundamentals
-- [x] Practice basic sorting algorithms
-- [ ] Strengthen core DSA concepts
-- [ ] Solve problems consistently on LeetCode
-- [ ] Master OOP, DBMS, OS, and computer networks
-- [ ] Build and deploy full-stack applications
-- [ ] Learn backend development and APIs
-- [ ] Explore AI and machine learning
+- Topic-wise problem solutions
+- Complexity analysis
+- Approaches and edge cases
+- Continuous practice and revision
 
----
+[Explore my repositories →](YOUR_GITHUB_PROFILE_URL?tab=repositories)
 
-## 📊 GitHub Overview
+## 05 / GitHub Analytics
 
 <div align="center">
 
-## 📊 GitHub Overview
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Most-used languages"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+<br/>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="Contribution streak"/>
 
 </div>
 
-## 🌐 Let's Connect
+## 06 / Current Roadmap
+
+- [x] Build a foundation in C++
+- [x] Practice basic sorting and searching
+- [ ] Master core DSA patterns
+- [ ] Improve problem-solving consistency
+- [ ] Strengthen OOP, DBMS, operating systems, and computer networks
+- [ ] Build and deploy full-stack applications
+- [ ] Explore backend engineering and AI/ML
+
+## 07 / Connect
 
 <div align="center">
 
-*Always open to learning, collaboration, and interesting software projects.*
-
 <a href="YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/Let's_Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
 </a>
 
 <br/><br/>
 
-### ⭐ Learn · Build · Solve · Repeat
+**BUILD WITH PURPOSE. SOLVE WITH LOGIC. IMPROVE EVERY DAY.**
 
-*Thanks for visiting my profile!*
+<sub>Thanks for visiting my profile.</sub>
 
 </div>
-
-## 🧠 Current Learning
-
-```text
-Data Structures & Algorithms  ███████░░░  70%
-C++ Problem Solving          ███████░░░  70%
-Web Development              █████░░░░░░  50%
-Database Management          ██████░░░░░  60%
-Machine Learning             ████░░░░░░░  40%
