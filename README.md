@@ -1,54 +1,25 @@
-<!-- ═══════════════ HEADER ═══════════════ -->
+<!-- ABOUT ME -->
 
-<div align="center">
+## ✨ About Me
 
-# ✨ Hi, I'm Kaveri Kapgate
+🎓 I'm a **Computer Science Engineering student** passionate about problem-solving, software development, and building technology that solves real-world problems.
 
-### `Computer Science Engineering Student` · `C++ Developer` · `Problem Solver`
+💻 Currently focused on mastering **Data Structures & Algorithms in C++**, strengthening my computer science fundamentals, and developing practical applications.
 
-*Building strong fundamentals. Solving challenging problems. Creating meaningful projects.*
+- 🧩 **Problem Solving:** Practicing DSA and algorithmic thinking with Striver's A2Z Sheet and LeetCode.
+- 🚀 **Development:** Building web applications using HTML, CSS, JavaScript, PHP, and MySQL.
+- 🛠️ **Projects:** Developed an Online Shopping Website and a Health Monitoring System.
+- 🌱 **Currently Exploring:** Advanced DSA, full-stack development, and AI technologies.
+- 🎯 **My Goal:** Become a skilled software engineer by combining strong fundamentals with hands-on experience.
+- ⚡ **Mindset:** Consistency over motivation. Progress through practice.
 
 <br/>
 
-<a href="YOUR_GITHUB_PROFILE_URL">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="YOUR_LEETCODE_PROFILE_URL">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-</a>
+<div align="center">
+
+*"Great software is built one problem, one solution, and one improvement at a time."*
 
 </div>
-
----
-
-## 👩🏻‍💻 About Me
-
-```cpp
-class Developer {
-public:
-    string name = "Kaveri Kapgate";
-    string degree = "Computer Science Engineering";
-    string primaryLanguage = "C++";
-
-    vector<string> interests = {
-        "Data Structures & Algorithms",
-        "Software Development",
-        "Problem Solving",
-        "Artificial Intelligence"
-    };
-
-    string currentGoal =
-        "Become a skilled software engineer";
-
-    void keepGrowing() {
-        practice();
-        buildProjects();
-        learnEveryDay();
-    }
-};
 ```
 
 - 🔭 **Currently building:** DSA skills and practical software projects
@@ -176,20 +147,15 @@ A project focused on monitoring health-related information and presenting it in 
 
 <div align="center">
 
-<a href="YOUR_GITHUB_PROFILE_URL">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
-</a>
-<a href="YOUR_GITHUB_PROFILE_URL">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
-</a>
+## 📊 GitHub Overview
 
-<br/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 </div>
-
----
 
 ## 🌐 Let's Connect
 
